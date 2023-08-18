@@ -1,0 +1,13 @@
+C:\Users\Student.ITSTEP\Desktop\bootcamp\CalculatorBotcamp — копия\CalculatorBotcamp\bin\Release\CalculatorBotcamp.exe.config
+C:\Users\Student.ITSTEP\Desktop\bootcamp\CalculatorBotcamp — копия\CalculatorBotcamp\bin\Release\CalculatorBotcamp.exe
+C:\Users\Student.ITSTEP\Desktop\bootcamp\CalculatorBotcamp — копия\CalculatorBotcamp\bin\Release\CalculatorBotcamp.pdb
+C:\Users\Student.ITSTEP\Desktop\bootcamp\CalculatorBotcamp — копия\CalculatorBotcamp\obj\Release\CalculatorBotcamp.csproj.AssemblyReference.cache
+C:\Users\Student.ITSTEP\Desktop\bootcamp\CalculatorBotcamp — копия\CalculatorBotcamp\obj\Release\CalculatorBotcamp.Menu.resources
+C:\Users\Student.ITSTEP\Desktop\bootcamp\CalculatorBotcamp — копия\CalculatorBotcamp\obj\Release\CalculatorBotcamp.Form2.resources
+C:\Users\Student.ITSTEP\Desktop\bootcamp\CalculatorBotcamp — копия\CalculatorBotcamp\obj\Release\CalculatorBotcamp.Form3.resources
+C:\Users\Student.ITSTEP\Desktop\bootcamp\CalculatorBotcamp — копия\CalculatorBotcamp\obj\Release\CalculatorBotcamp.Form4.resources
+C:\Users\Student.ITSTEP\Desktop\bootcamp\CalculatorBotcamp — копия\CalculatorBotcamp\obj\Release\CalculatorBotcamp.Properties.Resources.resources
+C:\Users\Student.ITSTEP\Desktop\bootcamp\CalculatorBotcamp — копия\CalculatorBotcamp\obj\Release\CalculatorBotcamp.csproj.GenerateResource.cache
+C:\Users\Student.ITSTEP\Desktop\bootcamp\CalculatorBotcamp — копия\CalculatorBotcamp\obj\Release\CalculatorBotcamp.csproj.CoreCompileInputs.cache
+C:\Users\Student.ITSTEP\Desktop\bootcamp\CalculatorBotcamp — копия\CalculatorBotcamp\obj\Release\CalculatorBotcamp.exe
+C:\Users\Student.ITSTEP\Desktop\bootcamp\CalculatorBotcamp — копия\CalculatorBotcamp\obj\Release\CalculatorBotcamp.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorBotcamp", "CalculatorBotcamp\CalculatorBotcamp.csproj", "{DD58E364-4D57-4256-BD33-3F16A72EE446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD58E364-4D57-4256-BD33-3F16A72EE446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD58E364-4D57-4256-BD33-3F16A72EE446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD58E364-4D57-4256-BD33-3F16A72EE446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD58E364-4D57-4256-BD33-3F16A72EE446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A09E67-95DA-4D6A-BD6A-AD64C6E8EFA1}
+	EndGlobalSection
+EndGlobal
